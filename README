@@ -1,0 +1,10 @@
+Install play 2.0.3 and add play dir to $PATH - just wget
+play new RestServer
+clone git repo and update RestServer files
+run eclipsify to create eclipse project
+play compile
+play run
+http://localhost:9000
+Install mongodb - http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
+
+
